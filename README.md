@@ -9,7 +9,7 @@
 	<div>
 		<a href="home.html"><li>HOME</li></a>
 		<a href="about.html"><li>ABOUT</li></a>
-		<a href="https://byjus.com/learn/account/login?referrer=source%3Diframe%26mx_Campaign_Type%3Dlogin-button%26SourceMedium%3Dwebsite%26mx_Page_Category%3Dsocial-science&source=iframe"><li>LOGIN</li></a>
+		<a href="https://mailchi.mp/1a15a3573d03/sixtoolsstudent"><li>LOGIN</li></a>
 	</div>
 	<div class="container">
 		<img src="https://images.unsplash.com/photo-1662946042121-a82668229798?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDF8SnBnNktpZGwtSGt8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60">
